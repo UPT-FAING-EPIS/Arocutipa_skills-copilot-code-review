@@ -671,3 +671,10 @@ footer {
   padding: 15px;
   font-weight: bold;
 }
+.announcement {
+  background-color: #ffcc00;
+  color: #333;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+}
